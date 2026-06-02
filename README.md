@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Anuj Kumar🙂!!</h1>
-<h3 align="center">A passionate Java Coder and Full Stack Web Developer, currently pursuing M.Tech. at IIT Kanpur. I have strong interest in building efficient and impactful technology solutions and also I have developed a solid foundation in Data Structures & Algorithms (DSA) and Full Stack Web Development Projects.</h3>
-
 # 💫 About Me:
 🌱 Currently exploring System Design -> Low Level Design (LLD) <br>💻 Explore my projects at: https://app.netlify.com/teams/anujkumarbro002/projects<br>🌐 Visit my portfolio: https://anujkumar-portfolio-website-bfs0c6.netlify.app/<br>💬 Ask me about Full-Stack Development, DSA, Computer Science Fundamentals<br>⚡ Interested in building scalable applications, AI-driven platforms, and impactful software solutions<br>📫 Reach me at: anuj24@iitk.ac.in
 
@@ -19,4 +16,3 @@
 [![](https://komarev.com/ghpvc/?username=AnujKumarIITK&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
