@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anuj Kumar🙂!!</h1>
+<h1 align="center">Hi 👋, I'm Anuj Kumar!!</h1>
 <h3 align="center">A passionate Java Coder and Full Stack Web Developer, currently pursuing M.Tech. at IIT Kanpur. I have strong interest in building efficient and impactful technology solutions and also I have developed a solid foundation in Data Structures & Algorithms (DSA) and Full Stack Web Development Projects.</h3>
 
 
